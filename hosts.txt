@@ -23,11 +23,11 @@ ff02::3 ip6-allhosts
 0.0.0.0     c.d3iz9md.com
 0.0.0.0     download.macromedia.com
 
-0.0.0.0     www.ygdy8.com
-0.0.0.0     www.ss2.he2d.com
-0.0.0.0     www.dygod.org
-0.0.0.0     www.dy2018.com
-0.0.0.0     www.dianping.com
+0.0.0.0     ygdy8.com
+0.0.0.0     ss2.he2d.com
+0.0.0.0     dygod.org
+0.0.0.0     dy2018.com
+0.0.0.0     dianping.com
 0.0.0.0     teredo.ipv6.microsoft.com
 0.0.0.0     ss2.he2d.com
 0.0.0.0     push.services.mozilla.com
