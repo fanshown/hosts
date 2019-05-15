@@ -1,3 +1,9 @@
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via Github
+#
+
+# ===============================================================
+
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
@@ -12,6 +18,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
+#=====================================
+
 # 电影天堂
 0.0.0.0     c.93hdw9.com
 0.0.0.0     csydtg.980cje.com
