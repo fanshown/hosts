@@ -2,4 +2,6 @@
 127.0.0.1 csydtg.980cje.com
 127.0.0.1 g.ieeod0.com
 127.0.0.1 p.woskj2.com
-127.0.0.1 c.v4dwkcv.com/
+127.0.0.1 c.v4dwkcv.com
+127.0.0.1 p.gm99.com
+127.0.0.1 c.v4dwkcv.com
